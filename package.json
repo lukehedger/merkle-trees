@@ -1,0 +1,15 @@
+{
+  "name": "merkle-trees",
+  "version": "1.0.0",
+  "description": "Learning about Merkle Trees",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Luke Hedger (https://www.level-out.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "merkle-proofs": "^1.0.3",
+    "merkle-tree-stream": "^3.0.3"
+  }
+}
