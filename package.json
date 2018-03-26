@@ -4,12 +4,14 @@
   "description": "Learning about Merkle Trees",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start:one": "node example/merkle-proofs/index.js",
+    "start:two": "node example/merkle-tools/index.js"
   },
   "author": "Luke Hedger (https://www.level-out.com/)",
   "license": "MIT",
   "dependencies": {
     "merkle-proofs": "^1.0.3",
+    "merkle-tools": "^1.4.0",
     "merkle-tree-stream": "^3.0.3"
   }
 }
